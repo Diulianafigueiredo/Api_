@@ -1,0 +1,21 @@
+{
+    "name": "api_teste",
+    "version": "1.0.0",
+    "description": "api de controle de estoque usado no Node.js",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1 "
+    },
+    "keywords": [],
+    "author": "Diuliana",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2",
+        "mongoose": "^8.9.5",
+        "morgan": "^1.10.0"
+    },
+    "DevDependencies": {
+        "nodemon": "^3.0.0"
+    }
+}
